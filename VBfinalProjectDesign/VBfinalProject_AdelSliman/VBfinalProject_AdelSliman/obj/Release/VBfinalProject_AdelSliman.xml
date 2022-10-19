@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VBfinalProject_AdelSliman
+</name>
+</assembly>
+<members>
+<member name="T:VBfinalProject_AdelSliman.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.dead">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.eAttack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Heartless">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Heartless1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.highwind">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.highwind1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Kingdom_Hearts_Wallpapers_HD_Free_Download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Kingdom_Hearts_Wallpapers_HD_Free_Download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Kingdom_Hearts_Wallpapers_HD_Free_Download2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.Kingdom_Hearts_Wallpapers_HD_Free_Download3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VBfinalProject_AdelSliman.My.Resources.Resources.pumpkinheartless">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
